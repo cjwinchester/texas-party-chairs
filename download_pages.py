@@ -1,6 +1,7 @@
+import time
+
 import requests
 import bs4
-import time
 
 
 # the base URL for all requests

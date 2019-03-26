@@ -1,6 +1,6 @@
-import bs4
-
 import csv
+
+import bs4
 
 
 # open the local county HTML file
